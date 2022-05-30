@@ -1,6 +1,6 @@
 <HTML> 
 <HEAD> 
-<title> Contaminación </title>
+<title> Contaminacion </title>
 </HEAD> 
 <BODY>  
 <BODY BGCOLOR="BLACK"> 
